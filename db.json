@@ -99,7 +99,7 @@
 {
 "id":13,
 "namePlace":"Khu du lịch Sa Pa",
-"img1":"https://mytourcdn.com/upload_images/dia-diem-check-in-sapa-1.jpg",
+"img1":"https://scontent-hkt1-1.xx.fbcdn.net/v/t1.15752-9/126277737_405936233923623_67833576630838448_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=ae9488&_nc_ohc=krvxwXWCdFAAX_-EUu4&_nc_oc=AQkTivmluRL_196F8HM3Y0Kw4fBg4pBVcMNy74BNfXU_OYUeE1Ph9VzwvCjWXGFic-FQ5M6etckYr8FPXHiPv4Ei&_nc_ht=scontent-hkt1-1.xx&oh=3dba9d03c26001595322d247765d09e6&oe=60F9E82A",
 "textImg1":"Swing Sapa",
 "img2":"https://ssl.latcdn.com/img/By0vZ3SlI-nha-tho-da-sapa-12.jpg",
 "textImg2":"Nhà thờ đá Sapa"
@@ -109,7 +109,7 @@
 "namePlace":"Đỉnh Phanxipang",
 "img1":"https://www.vietnamembassy-srilanka.vn/wp-content/uploads/2019/08/cong-troi-sapa.jpg",
 "textImg1":"Cổng trời",
-"img2":"https://media.thongtindulich.hahalolo.com/files/thutrang/2021/01/11/thung-lung-muong-hoa-sapa-hahalolo-3-1111.jpg",
+"img2":"https://scontent-hkt1-2.xx.fbcdn.net/v/t1.15752-9/126521663_204282147887499_3531401161286621323_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_ohc=lBP_LfYtzIIAX8NU9wD&_nc_ht=scontent-hkt1-2.xx&oh=5929519c56d74aa5c1c8ca33240273b9&oe=60F515D5",
 "textImg2":"Thung Lũng Mường Hoa"
 },
 {
@@ -192,14 +192,7 @@
 "img2":"https://dulichchat.com/wp-content/uploads/2020/08/du-lich-pu-luong-thanh-hoa-dulichchat-4-780x405.jpg",
 "textImg2":"Pù Luông Eco Garden"
 },
-{
-"id":25,
-"namePlace":"Cung Đình Huế",
-"img1":"https://www.chudu24.com/wp-content/uploads/2019/10/66766173_533455230527015_6725698845775923106_n.jpg",
-"textImg1":"Kì Đài",
-"img2":"https://media.travelmag.vn/resize/800x709/files/linhhuong/2020/06/18/101269371_541224983424461_6541927563306385575_n-0027.jpg",
-"textImg2":"Đại Nội"
-},
+
 {
 "id":26,
 "namePlace":"Biển Lăng Cô",
